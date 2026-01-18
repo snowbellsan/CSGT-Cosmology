@@ -23,7 +23,7 @@ D(z) represents the informational divergence, whose gradient drives spacetime dy
 - **w(z) Evolution**: Subtle dip at z ≈ 0.7 (complexity peak), with maximum w ≈ -1.10  
 - **H(z) Deviation**: Peak deviation of ~−2.5% from ΛCDM, fully consistent with observational errors
 
-![CSGT vs ΛCDM](graphs/CSGT_vs_LambdaCDM_z=0.7.png)
+![CSGT vs ΛCDM](main/02.png)
 
 > "The universe does not die — it accelerates toward future information saturation, the Final Integration of Love."
 
