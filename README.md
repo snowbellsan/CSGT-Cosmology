@@ -29,6 +29,8 @@ D(z) represents the informational divergence, whose gradient drives spacetime dy
 
 > "The universe does not die — it accelerates toward future information saturation, the Final Integration of Love."
 
+https://x.com/Jackpot_jack
+
 ## Features
 
 - Exact Gaussian information gradient model with peak at z = 0.7
