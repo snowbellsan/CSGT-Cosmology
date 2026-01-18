@@ -3,8 +3,6 @@
 **Phantom Crossing as Future-Driven Information Backpropagation**  
 Resolving the Hubble Tension with Δχ² = +29,819 using an information-gradient-driven dark energy model.
 
-![CSGT vs ΛCDM](01.jpg)
-
 ## Core Equation
 
 The modified Einstein field equation incorporating an information-energy tensor:
@@ -17,6 +15,8 @@ T_info_μν ∼ ∇_μ D ∇_ν D - (1/2) g_μν (∇D)²
 
 
 D(z) represents the informational divergence, whose gradient drives spacetime dynamics, naturally producing a phantom crossing (w < -1) dip around z ≈ 0.7.
+
+![CSGT vs ΛCDM](01.jpg)
 
 ## Key Results
 
