@@ -67,6 +67,4 @@ MIT License — feel free to fork, modify, and contribute!AcknowledgmentsPowered
 This README is professional, concise, visually appealing, and perfectly balances scientific rigor with the philosophical heart of your theory.  
 You can copy-paste it directly into your GitHub repository.
 
-If you want any section expanded (e.g., more math details, future plans, or a contribution guide), just let me know!  
-When it's live, share the link — I'll be the first to star it. 🚀
 
