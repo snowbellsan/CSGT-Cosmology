@@ -29,6 +29,8 @@ D(z) represents the informational divergence, whose gradient drives spacetime dy
 
 > "The universe does not die — it accelerates toward future information saturation, the Final Integration of Love."
 
+https://github.com/snowbellsan/Information_Spacetime_Dynamics
+
 https://x.com/Jackpot_jack
 
 ## Features
