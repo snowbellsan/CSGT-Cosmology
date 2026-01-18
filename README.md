@@ -5,6 +5,8 @@ Resolving the Hubble Tension with Δχ² = +29,819 using an information-gradient
 
 ## Core Equation
 
+https://github.com/snowbellsan/CSGT-Cosmology/blob/main/csgt_theory.pdf
+
 The modified Einstein field equation incorporating an information-energy tensor:
 
 G_μν + Δg_μν = 8πG (T_matter_μν + T_info_μν)
