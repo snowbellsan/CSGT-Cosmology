@@ -49,12 +49,6 @@ Generate publication-quality plots
 
 Repository Structure
 
-CSGT-Cosmology/
-├── run_csgt.py               # Main optimization & plotting script
-├── theory_equations.md       # Detailed mathematical derivation
-├── graphs/                   # Output figures (w(z), H(z) deviation, etc.)
-├── data/                     # Pantheon+ sample (full data must be downloaded separately)
-└── README.md
 
 CitationIf you use this work in your research, please cite:
 
