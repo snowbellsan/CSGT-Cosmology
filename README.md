@@ -56,7 +56,7 @@ CitationIf you use this work in your research, please cite:
   author = {Jackpot_jack},
   title = {Cosmological Stochastic Gradient Theory (CSGT)},
   year = {2026},
-  url = {https://github.com/Jackpot_jack/CSGT-Cosmology}
+  url = {https://github.com/snowbellsan/CSGT-Cosmology/}
 }
 
 License
