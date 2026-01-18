@@ -3,7 +3,7 @@
 **Phantom Crossing as Future-Driven Information Backpropagation**  
 Resolving the Hubble Tension with Δχ² = +29,819 using an information-gradient-driven dark energy model.
 
-![CSGT vs ΛCDM](01.png)
+![CSGT vs ΛCDM](01.jpg)
 
 ## Core Equation
 
